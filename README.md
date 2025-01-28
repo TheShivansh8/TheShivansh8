@@ -1,7 +1,5 @@
 # Welcome to My GitHub
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=flat-square)  
-
 ## About Me
 Hi, I’m **Shivansh**, a passionate programmer, AI enthusiast, and a relentless learner dedicated to creating unique and impactful projects. My ultimate goal is to push boundaries and explore the intersection of technology and human emotion through AI innovation.
 
