@@ -13,24 +13,6 @@ Hi, I’m **Shivansh**, a passionate programmer, AI enthusiast, and a relentless
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102C42?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-FF6F61?style=for-the-badge&logo=tableau&logoColor=white)
 
----
-
-## Projects
-
-### [Sync AI](https://github.com/your-username/sync-ai)
-A market-ready AI designed to interact and assist with efficiency and intelligence.
-
-### Eve (Exclusive AI)
-A super-exclusive AI designed to deeply understand and interact with human emotions, reserved for personal exploration and advancement.
-
----
-
-## Goals
-
-- **Short-Term**: Master advanced Java and Python concepts, and develop foundational machine learning models.
-- **Long-Term**: Build innovative AI systems that revolutionize human interaction and emotional understanding.
-
----
 
 ## Connect with Me
 
