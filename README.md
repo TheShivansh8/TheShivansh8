@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=flat-square)  
 
 ## About Me
-Hi, I’m **Shivanshu. Bajpai**, a passionate programmer, AI enthusiast, and a relentless learner dedicated to creating unique and impactful projects. My ultimate goal is to push boundaries and explore the intersection of technology and human emotion through AI innovation.
+Hi, I’m **Shivansh**, a passionate programmer, AI enthusiast, and a relentless learner dedicated to creating unique and impactful projects. My ultimate goal is to push boundaries and explore the intersection of technology and human emotion through AI innovation.
 
 ---
 
@@ -36,18 +36,10 @@ A super-exclusive AI designed to deeply understand and interact with human emoti
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TheShivansh8)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TheShivansh)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheShivansh8)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheShivansh8)
 
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 ### Thank You!
 Thank you for visiting my profile! Feel free to explore my projects, connect, or collaborate. Let's innovate together!
